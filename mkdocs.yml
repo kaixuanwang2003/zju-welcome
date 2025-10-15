@@ -2,9 +2,9 @@ site_name: 2025年浙江大学本科新生指引
 site_author: mini-full
 site_description: 浙江大学本科生新生指引为浙江大学CC98论坛新生宝典版面编撰的新生入学指南。
 repo_name: zju-welcome
-repo_url: https://github.com/kxwangzju/zju-welcome/
+repo_url: https://github.com/kaixuanwang2003/zju-welcome/
 
-copyright: Copyright &copy; 2023-present <a href="https://github.com/kxwangzju/zju-welcome/" target="_blank" rel="noopener noreferrer">新生指引编委会</a>
+copyright: Copyright &copy; 2023-present <a href="https://github.com/kaixuanwang2003/zju-welcome/" target="_blank" rel="noopener noreferrer">新生指引编委会</a>
 
 
 nav:
@@ -195,13 +195,13 @@ extra_javascript:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/kxwangzju/zju-welcome
+      link: https://github.com/kaixuanwang2003/zju-welcome
     - icon: material/forum
       link: https://www.cc98.org/topic/6250228
     - icon: fontawesome/solid/paper-plane
       link: mailto:kaixuanwang@zju.edu.cn
     - icon: simple/githubpages
-      link: https://kxwangzju.github.io/zju-welcome/
+      link: https://kaixuanwang2003.github.io/zju-welcome/
     - icon: material/web-check
       link: https://zjuers.com/welcome/
     
