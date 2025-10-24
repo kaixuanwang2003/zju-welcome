@@ -55,3 +55,7 @@ Celechron 是一个为浙大学生服务的开源时间管理器，Celechron 提
 ### 求是潮Mobile
 
 [Mobile](https://www.qsc.zju.edu.cn/mobile)是浙江大学求是潮开发的校园内一站式app，可以方便地在手机上查看课表，查询成绩等。
+
+### Awesome ZJU Tools
+
+[Awesome ZJU Tools](https://phil-fan.github.io/awesome-zju-tools/) 是一个面向浙大社区的开源资源合集，收集了能提升学习、科研与生活效率的实用工具、脚本与模板。
