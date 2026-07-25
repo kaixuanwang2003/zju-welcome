@@ -34,7 +34,7 @@ CC98今年继续与三家运营商一起合作，整理经过运营商确认的�
 
 
 
-![套餐汇总](../assets/phoneplans20260724v1.png)
+![套餐汇总](../assets/phoneplans20260726v1.png)
 
 ![套餐汇总](../assets/phonelinks2026.png)
 
