@@ -21,16 +21,16 @@
 - **生活：** 在浙江大学校内、学校周边及杭州市的生活娱乐；
 - **园区：** 关于未来两年或更长时间你所生活的地方；
 - **CC98论坛：** CC98论坛攻略，同时收录了前辈们撰写的部分优质经验；
-- **海宁国际校区专题：** 海宁校区的同学可以 **[先戳这里](./haining/intro.md)**；
-- **港澳台生专题：** 港澳台籍同学可以 **[先戳这里](./HK_Macao_Taiwan/prologue.md)**。
+- **海宁国际校区专题：** 海宁校区的同学可以 **[先戳这里](./docs/haining/intro.md)**；
+- **港澳台生专题：** 港澳台籍同学可以 **[先戳这里](./docs/HK_Macao_Taiwan/prologue.md)**。
 
 建议同学们可以从头到尾看一遍，以全面了解未来在浙江大学的学习生活。有需要时，也可以在上方搜索框内输入关键词进行搜索，定向查找需要的内容，相信绝大多数问题都可以在这里得到解答。
 
 **如果你觉得[本站点](https://zjuers.com/welcome)有用，非常欢迎推荐给身边的同学~**
 
-**想要了解指引的前世今生？可以戳一戳[前言](./preface.md)**
+**想要了解指引的前世今生？可以戳一戳[前言](./docs/preface.md)**
 
-**同时，我们也向你隆重介绍浙大人的精神家园——[CC98论坛](./cc98/cc98.md)**
+**同时，我们也向你隆重介绍浙大人的精神家园——[CC98论坛](./docs/cc98/cc98.md)**
 
 ## 修订日志
 
@@ -118,8 +118,8 @@
 - **感谢以下人员及单位对2021-2026年指引编撰与修订工作作出的贡献。**
 
   	- **CC98论坛用户**（按年份及昵称首字母为序，部分用户可能有所遗漏，敬请谅解！）
-  > @2019爱学习、@boommmm、@ddjjz、@Holliea、@Morning_Sun、@qzx、@shio、@ShirleyW、@zjuer2080、@zshenobody、@ZYD0831、@哈士奇、@环己三烯、@辣辣为什么叫辣辣、@且寄白鹿_、@十年雪落、@徐弈之、@66666a、@Cockney、@Fraser、@GaAs9000、@jude0254、@leo142431、@mhqq、@Oregon、@pcrbsatm、@saltfish、@TuTu、@YAOX、@yihang、@Yyijun、@zra0509、@阿刀、@白丁阁主、@菠萝雨凤梨、@呆瓜粥、@德莫克里、@冬忍、@后朴、@靜水深流、@黎辉、@思之心忧、@添柴少年、@忘彬谦、@我记得密码、@无尘丨溯荒、@湘叶、@衣锦夜行、@御坂110号、@浙大俗人、@拙石、@RI_Finch、@易木Ewood、@SAVIA、@Trifct、@驼绒、@tgya、@落潮、@Slowist、@折一只纸鹭、@x10、@lire、@Ozart、@Shirley06、
-  > @caca99、@Quinn_dj、@Wei2508、@虚子乌有、@月蘅，
+  > @2019爱学习、@boommmm、@ddjjz、@Holliea、@Morning_Sun、@qzx、@shio、@ShirleyW、@zjuer2080、@zshenobody、@ZYD0831、@哈士奇、@环己三烯、@辣辣为什么叫辣辣、@且寄白鹿_、@十年雪落、@徐弈之、@66666a、@Cockney、@Fraser、@GaAs9000、@jude0254、@leo142431、@mhqq、@Oregon、@pcrbsatm、@saltfish、@TuTu、@YAOX、@yihang、@Yyijun、@zra0509、@阿刀、@白丁阁主、@菠萝雨凤梨、@呆瓜粥、@德莫克里、@冬忍、@后朴、@靜水深流、@黎辉、@思之心忧、@添柴少年、@忘彬谦、@我记得密码、@无尘丨溯荒、@湘叶、@衣锦夜行、@御坂110号、@浙大俗人、@拙石、@RI_Finch、@易木Ewood、@SAVIA、@Trifct、@驼绒、@tgya、@落潮、@Slowist、@折一只纸鹭、@x10、@lire、@Ozart、@Shirley06、@掌门人、
+  > @caca99、@Colamentos、@goukameima、@Quinn_dj、@Wei2508、@Zh_Ann_、@吼吼吼hhhh、@闽山苍翠、@虚子乌有、@月蘅，
   > 刘同学
   
   	- 感谢原求是学院云峰学园主任**詹美燕老师**对2024年指引首次纸质化提供的建议与指导，感谢**刘永杰老师**对相关工作的具体联络与推进。

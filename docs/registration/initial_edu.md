@@ -1,8 +1,6 @@
 # 始业教育
 > 以下为学校发布的2026年相关安排
 
-<!-- 2026 TODO -->
-
 ![始业教育1](../assets/init_edu1.webp)
 
 ![始业教育2](../assets/init_edu2.webp)
