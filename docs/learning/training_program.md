@@ -12,9 +12,9 @@ SQTP申请时间一般为每学年3~4月，具体参考学园、学院相关通�
 
 ## NSEP：学生资助对象教育实践项目
 
-NSEP即浙江大学学生自主对象教育实践项目（Needy Student Education Project）。其立项人必须为浙江大学认定的资助对象，资助对象在本科期间必须以立项人或项目参与人参加一次NSEP项目。重点围绕学风建设、资助育人、学生自主管理等课题开展调研研究，可获得一定经费支持。
+NSEP即浙江大学学生自主对象教育实践项目（Needy Students Education Project）。其立项人必须为浙江大学认定的资助对象，资助对象在本科期间必须以立项人或项目参与人参加一次NSEP项目。重点围绕学风建设、资助育人、学生自主管理等课题开展调研研究，可获得一定经费支持。
 
-详细内容可查阅“奖助”章节，也可以参考[浙大资助公众号的推文](https://mp.weixin.qq.com/s/U3pVgtvvhgi9RONU8dHSxw)
+详细内容可查阅[“奖助”章节](../awards&grants/grants.md)，也可以参考[学工部相关通知](http://www.xgb.zju.edu.cn/2024/1028/c53400a2980790/page.psp)（须在校园网环境打开）。
 
 ## SRTP：学生科研训练计划
 
@@ -22,7 +22,9 @@ SRTP即浙江大学学生科研训练计划（Student Research Training Project�
 
 通常而言，SRTP会在每年春学期开学初进行项目申报，分为国家级、省级、校级、院级四级项目，面向对象一般为大二、大三学生，一个项目通常持续约一年时间，项目成果（如论文、专利等）属于项目团队。
 
-更多关于SRTP的内容（如是否需要参加等）可以参考[老学长的帖子](https://zjuers.com/rd?url=https://www.cc98.org/topic/5827539&mode=1)
+更多关于SRTP的内容（如是否需要参加等）可以参考[@白丁阁主](https://zjuers.com/rd?url=https://www.cc98.org/user/id/518508) 的帖子[《关于SRTP》](https://zjuers.com/rd?url=https://www.cc98.org/topic/6450854&mode=1)
+
+> 帖子[《关于SRTP》](https://zjuers.com/rd?url=https://www.cc98.org/topic/6450854&mode=1)不仅是SRTP可参考的内容，也对于本科生自主联系导师提前进入实验室/课题组，或是通过科研训练项目进入实验室，都有一定的参考价值。
 
 ## SREP：学生科研创业项目
 
