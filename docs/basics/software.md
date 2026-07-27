@@ -58,4 +58,8 @@ Celechron 是一个为浙大学生服务的开源时间管理器，Celechron 提
 
 ### Awesome ZJU Tools
 
-[Awesome ZJU Tools](https://phil-fan.github.io/awesome-zju-tools/) 是一个面向浙大社区的开源资源合集，收集了能提升学习、科研与生活效率的实用工具、脚本与模板。
+[Awesome ZJU Tools](https://zjutools.top) 是一个面向浙大社区的开源资源合集，收集了能提升学习、科研与生活效率的实用工具、脚本与模板。
+
+### ZJU Charger
+
+[ZJU Charger](https://charger.philfan.cn) 是一个便捷高效的电动车充电桩查询助手。
