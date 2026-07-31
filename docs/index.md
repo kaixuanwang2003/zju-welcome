@@ -128,6 +128,8 @@
   > @2019爱学习、@boommmm、@ddjjz、@Holliea、@Morning_Sun、@qzx、@shio、@ShirleyW、@zjuer2080、@zshenobody、@ZYD0831、@哈士奇、@环己三烯、@辣辣为什么叫辣辣、@且寄白鹿_、@十年雪落、@徐弈之、@66666a、@Cockney、@Fraser、@GaAs9000、@jude0254、@leo142431、@mhqq、@Oregon、@pcrbsatm、@saltfish、@TuTu、@YAOX、@yihang、@Yyijun、@zra0509、@阿刀、@白丁阁主、@菠萝雨凤梨、@呆瓜粥、@德莫克里、@冬忍、@后朴、@靜水深流、@黎辉、@思之心忧、@添柴少年、@忘彬谦、@我记得密码、@无尘丨溯荒、@湘叶、@衣锦夜行、@御坂110号、@浙大俗人、@拙石、@RI_Finch、@易木Ewood、@SAVIA、@Trifct、@驼绒、@tgya、@落潮、@Slowist、@折一只纸鹭、@x10、@lire、@Ozart、@Shirley06、@掌门人、
   > @caca99、@Colamentos、@goukameima、@Quinn_dj、@Wei2508、@Zh_Ann_、@代号陆拾柒、@冬季风、@吼吼吼hhhh、@闽山苍翠、@虚子乌有、@月蘅，
   > 刘同学
+    - **GitHub用户**
+  > @Jianing-Song
   
   	- 感谢原求是学院云峰学园主任**詹美燕老师**对2024年指引首次纸质化提供的建议与指导，感谢**刘永杰老师**对相关工作的具体联络与推进。
 
