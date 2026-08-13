@@ -119,7 +119,7 @@
 
   	- **CC98论坛用户**（按年份及昵称首字母为序，部分用户可能有所遗漏，敬请谅解！）
   > @2019爱学习、@boommmm、@ddjjz、@Holliea、@Morning_Sun、@qzx、@shio、@ShirleyW、@zjuer2080、@zshenobody、@ZYD0831、@哈士奇、@环己三烯、@辣辣为什么叫辣辣、@且寄白鹿_、@十年雪落、@徐弈之、@66666a、@Cockney、@Fraser、@GaAs9000、@jude0254、@leo142431、@mhqq、@Oregon、@pcrbsatm、@saltfish、@TuTu、@YAOX、@yihang、@Yyijun、@zra0509、@阿刀、@白丁阁主、@菠萝雨凤梨、@呆瓜粥、@德莫克里、@冬忍、@后朴、@靜水深流、@黎辉、@思之心忧、@添柴少年、@忘彬谦、@我记得密码、@无尘丨溯荒、@湘叶、@衣锦夜行、@御坂110号、@浙大俗人、@拙石、@RI_Finch、@易木Ewood、@SAVIA、@Trifct、@驼绒、@tgya、@落潮、@Slowist、@折一只纸鹭、@x10、@lire、@Ozart、@Shirley06、@掌门人、
-  > @caca99、@Colamentos、@goukameima、@Kym9763、@Quinn_dj、@Wei2508、@Zh_Ann_、@代号陆拾柒、@冬季风、@吼吼吼hhhh、@闽山苍翠、@虚子乌有、@月蘅，
+  > @caca99、@Colamentos、@goukameima、@Kym9763、@Quinn_dj、@rainyao、@Wei2508、@Zh_Ann_、@代号陆拾柒、@冬季风、@吼吼吼hhhh、@闽山苍翠、@虚子乌有、@月蘅，
   > 刘同学
     - **GitHub用户**
   > @Jianing-Song
