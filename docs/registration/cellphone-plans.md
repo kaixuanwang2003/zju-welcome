@@ -32,9 +32,9 @@ CC98今年继续与三家运营商一起合作，整理经过运营商确认的�
 
 <font color="red">扫描左侧二维码，或在公众号“浙江大学CC98论坛”回复“校园套餐”可获取最新版本。</font>
 
+<font color="red">**注意：特别优惠期已于8月18日23:59结束，后续新产生的订单套餐和价格按照下方执行。**</font>
 
-
-![套餐汇总](../assets/phoneplans20260803v1.png)
+![套餐汇总](../assets/phoneplans20260820v1.png)
 
 ![套餐汇总](../assets/phonelinks2026.png)
 
