@@ -30,6 +30,14 @@
 
 这个脚本同时也改善了CC98论坛、学在浙大等的使用体验。
 
+### 选课体验增强脚本
+
+[脚本](https://www.tampermonkey.net/script_installation.php#url=https://111.228.3.50/zju-course-segment-bg.user.js)由CC98论坛用户[@25HZR](https://zjuers.com/rd?url=https://www.cc98.org/user/id/803044&mode=1) 开发，这里是其[文档和安装指南](https://zjuers.com/rd?url=https://www.cc98.org/topic/6614225&mode=1)。
+
+脚本功能包括教师评分与第三方课程 GPA 数据显示、教师评分-选课难度可视化、校区提示、预修要求提示、冲突/余量不足自动隐藏、自动翻页、多课程同时显示、侧边栏优化和 UI 美化等，提升了选课效率与使用体验。
+
+> ![preview](../assets/better-zdbk.png){ width="30%" }
+
 ## 选课页面
 
 ![course_select](../assets/选课页面.jpg)
